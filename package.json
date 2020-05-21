@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoeyBling/hexo-theme-yilia-plus.git"
+    "url": "git+https://github.com/Alvinyw/hexo-theme-yilia-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/JoeyBling/hexo-theme-yilia-plus/issues"
+    "url": "https://github.com/Alvinyw/hexo-theme-yilia-plus/issues"
   },
   "keywords": [
     "hexo",
@@ -33,7 +33,7 @@
     "url": "https://zhousiwei.gitee.io"
   },
   "license": "MIT",
-  "homepage": "https://github.com/JoeyBling/hexo-theme-yilia-plus",
+  "homepage": "https://github.com/Alvinyw/hexo-theme-yilia-plus",
   "devDependencies": {
     "autoprefixer": "^6.5.1",
     "clean-webpack-plugin": "^0.1.15",

@@ -96,7 +96,7 @@ share_jia: true
 
 # 评论：1、畅言；2、Disqus；3、Gitment；4、Giteement
 # 不需要使用某项，直接设置值为false，或注释掉
-# 具体请参考wiki：https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki
+# 具体请参考wiki：https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki
 
 # 1、畅言
 changyan_appid: false
@@ -156,12 +156,12 @@ clickLove:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github:
   # (关闭请设置为false)
-  url: https://github.com/JoeyBling/hexo-theme-yilia-plus
+  url: https://github.com/Alvinyw/hexo-theme-yilia-plus
 
 # 页脚 Litten(此配置项已弃用)
 # 帮助我们让更多人可以更方便使用Hexo，请尽量不要修改此主题配置
 pageFooter:
-  litten: GitHub:<a href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
+  litten: GitHub:<a href="https://github.com/Alvinyw/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
 
 # 开启百度站长平台自动推送(https://ziyuan.baidu.com/linksubmit/index)
 baidu_push: false
@@ -217,11 +217,11 @@ activate_power_mode:
 snow: false
 
 # 看板娘动态模型插件
-## https://github.com/JoeyBling/live2d-widget.js
+## https://github.com/Alvinyw/live2d-widget.js
 live2d:
   # (关闭请设置为false)
   enable: true
-  # 模型名称(取值请参考：https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA)
+  # 模型名称(取值请参考：https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA)
   model: hibiki
   display:
     position: right # 显示位置：left/right(default: 'right')
@@ -273,13 +273,13 @@ friends:
     #网站简介(可忽略不写)
     description: 记录工作和学习过程中的笔记：Java、前端开发、Hexo博客、聚合支付、Linux笔记、ElasticSearch、ELK日志分析
   GitHub:
-    url: https://github.com/JoeyBling
+    url: https://github.com/Alvinyw
   码云:
-    url: https://gitee.com/zhousiwei
+    url: #
   简书:
-    url: https://www.jianshu.com/u/02cbf31a043a
+    url: #
   CSDN:
-    url: https://blog.csdn.net/qq_30930805
+    url: #
 
 # 关于我
 aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众号开发、开源爱好者、Linux<br><br>联系QQ:2434387555<br><br>很惭愧<br><br>只做了一点微小的工作<br>谢谢大家

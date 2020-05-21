@@ -21,7 +21,7 @@ hexo-theme-yilia-plus
 
 > **同时也欢迎相同爱好者加入一起维护此项目**
 
-## 关于[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus)主题在原基础上做了以下功能升级
+## 关于[hexo-theme-yilia-plus](https://github.com/Alvinyw/hexo-theme-yilia-plus)主题在原基础上做了以下功能升级
 1. 手机端头像添加主页跳转链接
 2. 集成不蒜子访问量统计功能
 3. 网易云音乐插件
@@ -31,7 +31,7 @@ hexo-theme-yilia-plus
 7. 页脚 Litten自定义(弃用)
 8. 添加版权声明
 9. 添加百度站长平台主动推送
-10. 集成 gitment 评论 ➡️ [https://github.com/JoeyBling/yilia-plus-demo](https://github.com/JoeyBling/yilia-plus-demo)
+10. 集成 gitment 评论 ➡️ [https://github.com/Alvinyw/yilia-plus-demo](https://github.com/Alvinyw/yilia-plus-demo)
 11. [集成码云评论](https://gitee.com/zhousiwei/giteement) ➡️ [https://gitee.com/zhousiwei/yilia-plus-demo](https://gitee.com/zhousiwei/yilia-plus-demo)
 12. 添加网站成立年份
 13. 页面加载进度条
@@ -44,8 +44,8 @@ hexo-theme-yilia-plus
 20. 添加悬停预览图片效果
 21. 其他样式轻微调优、社交图标优化
 22. 优化配置是否在新窗口打开链接
-23. [fix bugs](https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/fix-bugs-record%EF%BC%88%E4%BF%AE%E5%A4%8Dbug%E8%AE%B0%E5%BD%95%EF%BC%89)
-24. [添加看板娘动态模型插件](https://github.com/JoeyBling/live2d-widget.js)
+23. [fix bugs](https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki/fix-bugs-record%EF%BC%88%E4%BF%AE%E5%A4%8Dbug%E8%AE%B0%E5%BD%95%EF%BC%89)
+24. [添加看板娘动态模型插件](https://github.com/Alvinyw/live2d-widget.js)
 25. 添加飘雪特效
 26. 自定义文章版权声明文本
 
@@ -56,7 +56,7 @@ hexo-theme-yilia-plus
 - 功能还很少，欢迎各位给我提意见和建议~
 - **本项目源于：[https://github.com/litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia "https://github.com/litten/hexo-theme-yilia")。向作者表示深深的敬意。**
 
-[yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
+[yilia-plus](https://github.com/Alvinyw/hexo-theme-yilia-plus) 是为 [hexo](https://github.com/hexojs/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](https://zhousiwei.gitee.io) 查看效果。
 
 如果想体验手机浏览效果，可以扫一下二维码：
@@ -67,7 +67,7 @@ hexo-theme-yilia-plus
 
 ## 鼓励
 
-&#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/JoeyBling/hexo-theme-yilia-plus/stargazers) ==**
+&#160;&#160;&#160;&#160;**如果觉得本主题还不错，您的支持和鼓励才是后续更新最大的动力，== 欢迎 [Star](https://github.com/Alvinyw/hexo-theme-yilia-plus/stargazers) ==**
 
 ![Stargazers over time](https://starchart.cc/JoeyBling/hexo-theme-yilia-plus.svg)
 
@@ -86,8 +86,8 @@ hexo-theme-yilia-plus
 
 ## 二、开发者
 
-&#160;&#160;&#160;&#160;为了性能和开发工程化考虑，[yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 需要使用`webpack`进行构建生成。
-如果您对主题有一些定制化的需求，请参考wiki[《yilia-plus源码目录结构及构建须知》](https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/yilia-plus%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9E%84%E5%BB%BA%E9%A1%BB%E7%9F%A5)
+&#160;&#160;&#160;&#160;为了性能和开发工程化考虑，[yilia-plus](https://github.com/Alvinyw/hexo-theme-yilia-plus) 需要使用`webpack`进行构建生成。
+如果您对主题有一些定制化的需求，请参考wiki[《yilia-plus源码目录结构及构建须知》](https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki/yilia-plus%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9E%84%E5%BB%BA%E9%A1%BB%E7%9F%A5)
 
 #### 评论支持
 - [Gitment](https://github.com/imsun/gitment)
@@ -101,7 +101,7 @@ hexo-theme-yilia-plus
 
 ```bash
 cd ./themes/
-git clone --depth=1 https://github.com/JoeyBling/hexo-theme-yilia-plus.git ./yilia-plus
+git clone --depth=1 https://github.com/Alvinyw/hexo-theme-yilia-plus.git ./yilia-plus
 ```
 
 #### 2、配置
@@ -219,7 +219,7 @@ share_jia: true
 
 # 评论：1、畅言；2、Disqus；3、Gitment；4、Giteement
 # 不需要使用某项，直接设置值为false，或注释掉
-# 具体请参考wiki：https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki
+# 具体请参考wiki：https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki
 
 # 1、畅言
 changyan_appid: false
@@ -279,12 +279,12 @@ clickLove:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github:
   # (关闭请设置为false)
-  url: https://github.com/JoeyBling/hexo-theme-yilia-plus
+  url: https://github.com/Alvinyw/hexo-theme-yilia-plus
 
 # 页脚 Litten(此配置项已弃用)
 # 帮助我们让更多人可以更方便使用Hexo，请尽量不要修改此主题配置
 pageFooter:
-  litten: GitHub:<a href="https://github.com/JoeyBling/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
+  litten: GitHub:<a href="https://github.com/Alvinyw/hexo-theme-yilia-plus" target="_blank">hexo-theme-yilia-plus</a>
 
 # 开启百度站长平台自动推送(https://ziyuan.baidu.com/linksubmit/index)
 baidu_push: false
@@ -338,11 +338,11 @@ activate_power_mode:
 snow: false
 
 # 看板娘动态模型插件
-## https://github.com/JoeyBling/live2d-widget.js
+## https://github.com/Alvinyw/live2d-widget.js
 live2d:
   # (关闭请设置为false)
   enable: false
-  # 模型名称(取值请参考：https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA)
+  # 模型名称(取值请参考：https://github.com/Alvinyw/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA)
   model: hibiki
   display:
     position: right # 显示位置：left/right(default: 'right')
@@ -394,7 +394,7 @@ friends:
     #网站简介(可忽略不写)
     description: 记录工作和学习过程中的笔记：Java、前端开发、Hexo博客、聚合支付、Linux笔记、ElasticSearch、ELK日志分析
   GitHub:
-    url: https://github.com/JoeyBling
+    url: https://github.com/Alvinyw
   码云:
     url: https://gitee.com/zhousiwei
   简书:
@@ -409,10 +409,10 @@ aboutme: 主要涉及技术：<br>Java后端开发、聚合支付、<br>公众�
 
 ## 其它项目支持
 
-- ### 一款简洁优雅的hexo主题：[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- ### 一款简洁优雅的VuePress主题：[vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- ### VuePress集成Live2D看板娘：[vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- ### VuePress回到页首插件Plus：[vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus)
+- ### 一款简洁优雅的hexo主题：[hexo-theme-yilia-plus](https://github.com/Alvinyw/hexo-theme-yilia-plus)
+- ### 一款简洁优雅的VuePress主题：[vuepress-theme-yilia-plus](https://github.com/Alvinyw/vuepress-theme-yilia-plus)
+- ### VuePress集成Live2D看板娘：[vuepress-plugin-helper-live2d](https://github.com/Alvinyw/vuepress-plugin-helper-live2d)
+- ### VuePress回到页首插件Plus：[vuepress-plugin-gotop-plus](https://github.com/Alvinyw/vuepress-plugin-gotop-plus)
 
 ## 捐赠
 &#160;&#160;&#160;&#160;**如果感觉对您有帮助，请作者喝杯咖啡吧，请注明您的名字或者昵称，方便作者感谢o(*￣︶￣*)o**
